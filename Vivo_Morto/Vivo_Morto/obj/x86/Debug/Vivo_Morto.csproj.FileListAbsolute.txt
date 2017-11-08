@@ -1,0 +1,12 @@
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Vivo_Morto.exe
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Vivo_Morto.pdb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\obj\x86\Debug\Vivo_Morto.csprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\obj\x86\Debug\Vivo_Morto.exe
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\obj\x86\Debug\Vivo_Morto.pdb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\joint2.xnb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\joint1.xnb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\SpriteFontGigante.xnb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\SpriteFontGrande.xnb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\SpriteFontInstrucao.xnb
+F:\Programação\Kinect\Fontes\Vivo_Morto\Vivo_Morto\Vivo_Morto\bin\x86\Debug\Content\SpriteFontMedia.xnb
